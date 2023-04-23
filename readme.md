@@ -34,7 +34,6 @@ These require manual export/import to be synced.
 
 * [Antennapod](https://f-droid.org/en/packages/de.danoeh.antennapod): `.opml` podcast feed
 * [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder): `.opml` RSS feed
-* [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps), [Neo
-* [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits):
-Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/): `.txt` app list.
-`.db` database file.
+* [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps): `.txt` app list
+* [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits): `.db` database file
+* [Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/):h
