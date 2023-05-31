@@ -32,6 +32,7 @@
 # Export-based integrations
 These require manual export/import to be synced.
 
+* [AnkiDroid](https://f-droid.org/en/packages/com.ichi2.anki): `.apkg` flash cards. [Known limitation](https://forums.ankiweb.net/t/30356): Database needs to be downgraded on exit if viewed from PC.
 * [Antennapod](https://f-droid.org/en/packages/de.danoeh.antennapod): `.opml` podcast feed
 * [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder): `.opml` RSS feed
 * [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps): `.txt` app list
