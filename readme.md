@@ -71,4 +71,4 @@ These require manual export/import to be synced.
 * [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder): `.opml` RSS feed
 * [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps): `.txt` app list
 * [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits): `.db` database file
-* [Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/):h
+* [Neo Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/): syncs app data. Requires root.
