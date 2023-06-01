@@ -2,7 +2,9 @@
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
 # Misc
-* [KeePassDX](https://github.com/Kunzisoft/KeePassDX): `.kdbx` password manager
+* [KeePassDX](https://github.com/Kunzisoft/KeePassDX): `.kdbx` password manager. Enable by 
+selecting a synced database from "Open existing database". Read-only mode can be enabled to
+avoid sync conflicts from Settings > App settings > Write-protected.
 
 ## [AnkiDroid](https://f-droid.org/en/packages/com.ichi2.anki)
 Syncs `.apkg` flash cards. [Known limitation](https://forums.ankiweb.net/t/30356)
