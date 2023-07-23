@@ -28,7 +28,7 @@ ln -s ~/AnkiDecks ~/.local/share/Anki2/main
 time you exit Anki from desktop, by `Ctrl-Shift-P` then "Downgrade and exit".
 
 ## [ICSx5](https://f-droid.org/packages/at.bitfire.icsdroid/)
-Syncs `.ics` calendar format. Can be used with [calcurse](https://github.com/lfos/calcurse) by 
+Syncs `.ics` calendar format. Can be used in one-way sync with [calcurse](https://github.com/lfos/calcurse) by 
 adding the following post-save hook in `~/.config/calcurse/hooks/post-save`:
 ```bash
 #!/bin/sh
