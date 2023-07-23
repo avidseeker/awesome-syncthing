@@ -52,11 +52,12 @@ ICSx5 can be then used with a calendar app like [Etar](https://f-droid.org/packa
 * [Obsidian](https://obsidian.md/): proprietary
 
 ### Plain text
-* [MOrg](https://github.com/brvier/MOrg): A future proof opinionated software
 * [Markor](https://f-droid.org/en/packages/com.appmindlab.nano)
+* [MobileOrg](https://f-droid.org/packages/com.matburt.mobileorg/)
+* [MOrg](https://github.com/brvier/MOrg): A future proof opinionated software
 * [Material Files editor](https://f-droid.org/en/packages/me.zhanghai.android.files/)
-* [Orgzly](https://f-droid.org/packages/com.orgzly/)
 * [neutriNote](https://f-droid.org/en/packages/com.appmindlab.nano)
+* [Orgzly](https://f-droid.org/packages/com.orgzly/)
 
 ## Task Management
 * [Lift](https://f-droid.org/en/packages/ca.momi.lift)
