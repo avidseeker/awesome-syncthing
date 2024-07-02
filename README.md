@@ -2,38 +2,38 @@
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
 # Note taking
-* [Joplin](https://f-droid.org/en/packages/net.cozic.joplin/)
-* [Logseq](https://github.com/logseq/logseq)
-* [MOrg](https://github.com/brvier/MOrg): A future proof opinionated software
-* [Markor](https://f-droid.org/en/packages/com.appmindlab.nano)
-* [Material Files editor](https://f-droid.org/en/packages/me.zhanghai.android.files/)
-* [MobileOrg](https://f-droid.org/packages/com.matburt.mobileorg/)
-* [Obsidian](https://obsidian.md/): proprietary
-* [Orgzly](https://f-droid.org/packages/com.orgzly/)
-* [neutriNote](https://f-droid.org/en/packages/com.appmindlab.nano)
+- [Joplin](https://f-droid.org/en/packages/net.cozic.joplin/)
+- [Logseq](https://github.com/logseq/logseq)
+- [MOrg](https://github.com/brvier/MOrg) - A future proof opinionated software
+- [Markor](https://f-droid.org/en/packages/com.appmindlab.nano)
+- [Material Files editor](https://f-droid.org/en/packages/me.zhanghai.android.files/)
+- [MobileOrg](https://f-droid.org/packages/com.matburt.mobileorg/)
+- [Obsidian](https://obsidian.md/) - proprietary
+- [Orgzly](https://f-droid.org/packages/com.orgzly/)
+- [neutriNote](https://f-droid.org/en/packages/com.appmindlab.nano)
 
 # Task Management
-* [Lift](https://f-droid.org/en/packages/ca.momi.lift)
-* [Personal Log](https://f-droid.org/en/packages/com.tiwa.pl)
-* [Shopping list](https://f-droid.org/en/packages/com.woefe.shoppinglist/)
-* [Simpletask](https://f-droid.org/packages/nl.mpcjanssen.simpletask/): manages todo.txt file format.
-* [Tasks](https://f-droid.org/en/packages/org.tasks/)
+- [Lift](https://f-droid.org/en/packages/ca.momi.lift)
+- [Personal Log](https://f-droid.org/en/packages/com.tiwa.pl)
+- [Shopping list](https://f-droid.org/en/packages/com.woefe.shoppinglist/)
+- [Simpletask](https://f-droid.org/packages/nl.mpcjanssen.simpletask/): manages todo.txt file format.
+- [Tasks](https://f-droid.org/en/packages/org.tasks/)
 
 ## [DecSync](https://github.com/39aldo39/DecSync)
-* [DecSync CC](https://f-droid.org/en/packages/org.decsync.cc): contacts, calendar and tasks. Doesn't support two-way syncing in `.ics` and `.vcf` formats.
-* [Flym DecSync](https://f-droid.org/en/packages/org.decsync.flym): RSS, atom feed syncing
-* [spaRSS DecSync](https://f-droid.org/en/packages/org.decsync.sparss.floss): RSS, atom feed syncing
+- [DecSync CC](https://f-droid.org/en/packages/org.decsync.cc): contacts, calendar and tasks. Doesn't support two-way syncing in `.ics` and `.vcf` formats.
+- [Flym DecSync](https://f-droid.org/en/packages/org.decsync.flym): RSS, atom feed syncing
+- [spaRSS DecSync](https://f-droid.org/en/packages/org.decsync.sparss.floss): RSS, atom feed syncing
 
 # Export-based integrations
 These require manual export/import to be synced.
-* [Antennapod](https://f-droid.org/en/packages/de.danoeh.antennapod): `.opml` podcast feed
-* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder): `.opml` RSS feed
-* [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps): `.txt` app list
-* [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits): `.db` database file
-* [Neo Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/): syncs app data. Requires root.
+- [Antennapod](https://f-droid.org/en/packages/de.danoeh.antennapod) - `.opml` podcast feed
+- [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder) - `.opml` RSS feed
+- [ListMyApps](https://f-droid.org/en/packages/de.onyxbits.listmyapps) - `.txt` app list
+- [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits) - `.db` database file
+- [Neo Backup](https://f-droid.org/en/packages/com.machiav3lli.backup/) - syncs app data. Requires root.
 
 # Desktop integrations
-* [KeePassDX](https://github.com/Kunzisoft/KeePassDX): `.kdbx` password manager. Enable by
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - `.kdbx` password manager. Enable by
 selecting a synced database from "Open existing database". Read-only mode can be enabled to
 avoid sync conflicts from Settings > App settings > Write-protected.
 
